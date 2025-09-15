@@ -1,0 +1,1 @@
+Jelaskan apakah informed search selalu lebih baik dibandingkan uninformed search? Uraikan alasan dan penjelasan Anda secara detail.

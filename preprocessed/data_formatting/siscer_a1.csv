@@ -1,0 +1,159 @@
+,pertanyaan,jawaban,penilai 1,penilai 2
+0,Jelaskan perbedaan antara iterative searching dan non iterative searching,Iterative searching memberikan nilai awal sedangkan non iterative searching tidak memberikan nilai awal pada pencarian,60,50
+1,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative Searching adalah pencarian yang dilakukan secara berulang dant erus menerus hingga sampai pada solusi ditemukan dan dievaluasi
+
+Non iterative searchin adalah pencarian yang dilakukan secar atidak berulang atau non iterative",90,70
+2,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative Searching biasanya digunakan untuk percarian masalah yang bukan berupa path, sedangkan Non Iteratif searching biasanya digunakan untuk pencarian masalah yang berupa path",80,50
+4,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative searching tidak dapat digunakan untuk menyelesaikan suatu permasalahan yang mencari sebuah path, iterative search digunakan untuk mencari goal state yang berbentuk state (memenuhi goal test yang ditentukan) dengan bantuan fungsi heuristic. Sedangkan untuk Non iterative searching merupakan sebaliknya.",80,85
+5,Jelaskan perbedaan antara iterative searching dan non iterative searching,Iterative searching digunakan untuk pencarian secara iteratif atau menghasilkan berupa path/rangkaian sementara noniterative searching digunakan untuk pencarian yang tidak menghasilkan path.,60,60
+6,Jelaskan perbedaan antara iterative searching dan non iterative searching,Iterative Searching adalah Pencarian berulang biasanya akan dapat menemukan lebih banyak kesamaan jarak jauh dengan urutan kueri daripada pencarian urutan tunggal,80,50
+7,Jelaskan perbedaan antara iterative searching dan non iterative searching,"iterative menggunakan hitungan dari awal sampe akhir, sedangkan non iterative tidak,",60,50
+8,Jelaskan perbedaan antara iterative searching dan non iterative searching,Pada iterative searching dilakukan secara rekursif dan bertahap sedangkan non iterative akan memanggil fungsinya kembali,65,60
+9,Jelaskan perbedaan antara iterative searching dan non iterative searching,"perbedaan :
+
+a. Iteratif menggunakan FOR, WHILE, DO-WHILE sedangkan rekursif hanya menggunakan IF.
+b.   Iteratif dapat berjalan pada program yang terdiri dari prosedur (Tidak terdapat fungsi) sedangkan
+    rekursif merupakan fungsi.",80,60
+10,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative search Dapat mencari masalah yang tidak memiliki path, sedankan non iterative membutuhkan persoalan yang mempunyai path",65,85
+11,Jelaskan perbedaan antara iterative searching dan non iterative searching,"iteratif searching digunakan untuk pencarian masalah yang bukan merupakan path, lalu Non iteratif searching digunakan untuk pencarian masalah karena cara kerjanya merupakan pemanggilan berulang dirinya sendiri untuk mencari pemecahan masalah terbaik.",80,70
+12,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Perbedaanya dalam hal tujuan penggunaan. Non interative searching berguna untuk masalah yang mempunyai path, sedangkan iterative searching berguna untuk masalah yang tidak mempunyai path seperti puzzle, catur, tumpukan.",85,90
+13,Jelaskan perbedaan antara iterative searching dan non iterative searching,Iterative,5,5
+14,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative search adalah sebuah jenis search yang akan terus mengihitung kemungkinan sampai ditemukannya goal state. Dalam iterative search, solusi tidak selalu berupa path karena dapat mencoba untuk mencari benefit terbanyak atau cost terendah
+
+Non-iterative search adalah search yang tidak diulang-ulang hingga menemukan solusi terbaik, sehingga tidak melalui trial and error. Pada non-iterative search, dicarikan path untuk mencapai goal state.",85,95
+15,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iteratif  searching lebih efisien daripada non iteratif searching . Untuk kompleksitas waktu kedua algoritma memiliki kompleksitas sebesar O(log n), namun binary search iteratif cenderung memiliki faktor konstan yang lebih rendah. Binary search rekursif menghasilkan waktu eksekusi lebih lama dan penggunaan memori yang lebih besar jika dibandingkan dengan binary search iteratif yang menghasilkan waktu eksekusi dan penggunaan memori yang lebih kecil.",70,60
+16,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iteravtive searching melakukan prinsip iterasi (loop) untuk mencari suatu node yang diinginkan, sedangkan non iteratif searching tidak menggunakan iterasi untuk mencari node.",80,70
+17,Jelaskan perbedaan antara iterative searching dan non iterative searching,"heruristik nya ditentukan 
+
+huristik",30,20
+18,Jelaskan perbedaan antara iterative searching dan non iterative searching,"* Iteratif menggunakan FOR, WHILE, DO-WHILE sedangkan Non Iteratif searching hanya menggunakan IF.
+	* Iteratif dapat berjalan pada program yang terdiri dari prosedur (Tidak terdapat fungsi) sedangkan Non Iteratif searching merupakan fungsi.",80,70
+19,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Interatif searching digunakan untuk pencarian masalah yang bukan berupa path biasnya melakukan perulangan suatu kelompok semuanya.
+
+ sedangkan non iteratif biasanya ditujukan unutk mencari path dari suatu node, biasaya memanggil dirinya sendiri berkali2 dan kadang sulit dipahami.",80,90
+20,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Non iteratif searching lebih terpaku pada path dan goal state, sedangkan iteratif searching lebih terpaku pada state ",70,80
+21,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative Searching :
+
+Iterative search merupakan sebuah strategi umum yang biasanya dikombinasikan dengan depth first tree search, yang akan menemukan berapa depth limit terbaik untuk digunakan. Hal ini dilakukan dengan secara menambah limit secara bertahap, mulai dari 0,1, 2, dan seterusnya sampai goal sudah ditemukan.
+
+Non Iteratif :
+Search yang tidak dapat diberlakukan berulang- ulang hingga state goal ditemukan.",50,50
+22,Jelaskan perbedaan antara iterative searching dan non iterative searching,iterative merupakan suatu teknik pembuatan algoritma dengan pemanggilan procedure  beberapa kali atau hingga suatu kondisi tertentu terpenuhi sedangkan non iterative,50,60
+23,Jelaskan perbedaan antara iterative searching dan non iterative searching,iterative searching adalah proses perulangan pada saat melakukan searching sedangkan non iterative tidak melakukan proses perulangan pada saat melakukan searching,90,70
+24,Jelaskan perbedaan antara iterative searching dan non iterative searching,"iteratif search adalah pencarian yang dilakukan secara berkali-kali melalui fungsi seperti loop atau while
+
+sementara non iteratif adalah pencarian yang tidak menggunakan pengulangan / fungsi pengulangan",90,70
+25,Jelaskan perbedaan antara iterative searching dan non iterative searching,"pada iterative searching posisi akhir belum tentu di goal state, tetapi pada non iterative sudah pasti jalurnya dari initial state sampai ke goal state.",85,80
+26,Jelaskan perbedaan antara iterative searching dan non iterative searching,iterative searching  merupakan metode pencarian berulang ulang. sedangkan non iterative searching merupakan metode pencarian tidak berulang atau hanya sekali saja,85,70
+27,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative search biasa digunakan untuk percarian masalah yang bukan berupa path, sedangkan non iterative untuk probelm yang berupa path.",90,90
+28,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Searching Iteratif merupakan perulangan yang melakukan proses perulangan terhadap sekelompok intruksi. Perulangan dilakukan dalam batasan syarat tertentu. Ketika syarat tersebut tidak terpenuhi lagi maka perulangan akan terhenti.
+
+Non Iteratif searching tidak perulangan yang melakukan proses perulangan terhadap sekelompok intruksi. Contohnya adalah rekursif yang memanggil fungsinya sendiri secara berulang-ulang.",85,80
+29,Jelaskan perbedaan antara iterative searching dan non iterative searching,"iterative searching : merupakan metode searching untuk sebuah permasalahan yang bukan path ,metode in ijuga sebuah strategi umum yang biasanya dikombinasikan dengan depth first tree search, yang akan menemukan berapa depth limit terbaik untuk digunakan. 
+
+non iterartice searching :
+
+merupakan algortima kebalikna dari iterative ",85,80
+30,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative search terdapat 3 step, anatara lain current state, while current, dan if else current, .
+
+Non iterative searching adalah algoritma dengan menggunaka konsep tidak berulang secara iteratif, jika sudah mencapai goal state maka akan lanjut ke state berikutnya dan tidak mengulang ke keadaan sebelumnya",85,80
+31,Jelaskan perbedaan antara iterative searching dan non iterative searching,"- Iteratif menggunakan FOR, WHILE, DO-WHILE, atau bisa dibilang merupakan pengulangan sedangkan non-iterative hanya menggunakan IF.
+- Iteratif dapat berjalan pada program yang terdiri dari prosedur (Tidak terdapat fungsi) sedangkan non-iterative merupakan fungsi.",80,60
+32,Jelaskan perbedaan antara iterative searching dan non iterative searching,Iterative search biasa digunakan untuk pencarian masalah yang bukan berupa path sedangkan non iterative search biasa digunakan untuk pencarian masalah berupa path,90,90
+33,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Itterative:
+
+Biasa digunakan untuk percarian masalah yang bukan berupa path
+
+Non Itterative:
+
+Bisanya pencarian masalah yang berupa path",90,90
+34,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative search digunakan untuk melakukan pencarian masalah yang bukan berbentuk seperti alur atau path. Contoh : Hill-Climbing Search dan Simulated Annealing
+
+Sedangkan, non iterative searching merupakan pencarian masalah yang menggunakan path",90,90
+35,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative Searching : Pencarian masalah yang bukan berupa path
+
+Non-Iterative Searching : Pencarian masalah yang merupakan path",90,90
+36,Jelaskan perbedaan antara iterative searching dan non iterative searching,Iterative Searching biasa digunakan  untuk pencarian masalah yang bukan merupakan path,70,80
+37,Jelaskan perbedaan antara iterative searching dan non iterative searching,iterative search biasa digunakan untuk pencarian masalah yang bukan berupa path sedangkan non iterative search biasa digunakan untuk pencarian masalah berupa path ,90,90
+38,Jelaskan perbedaan antara iterative searching dan non iterative searching,"*  Iteratif menggunakan FOR, WHILE, DO-WHILE sedangkan rekursif hanya menggunakan IF
+        *  Iteratif dapat berjalan pada program yang terdiri dari prosedur (Tidak terdapat fungsi) sedangkan rekursif merupakan fungsi.",80,70
+39,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative depat digunakan untuk pencarian masalah yang bukan berupa path, sedangkan non iterative bisa",80,80
+40,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative search adalah strategi pencarian spasi / grafik keadaan di mana versi pencarian kedalaman-first depth-limited dijalankan berulang kali dengan meningkatkan batas kedalaman hingga tujuannya ditemukan, sedangkan non iteratif searching adalah strategi pencarian spasi/grafik keadaan di mana versi pencarian kedalaman-first depth-limited dijalankan tidak berulang kali dengan meningkatkan batas kedalaman hingga tujuannya ditemukan",80,50
+41,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative Searching merupakan sebuah strategi umum yang biasanya dikombinasikan dengan depth first tree search, yang akan menemukan berapa depth limit terbaik untuk digunakan. Hal ini dilakukan dengan secara menambah limit secara bertahap.
+Iteratif searching secara giliran.",65,50
+42,Jelaskan perbedaan antara iterative searching dan non iterative searching,"perbedaan iterative seaching dengan non iteratif searching adalah iterative search digunakan untuk pencarian masalah yang bukan berupa path, sedangkan non iterative search digunakan untuk masalah yg berupa path",90,90
+43,Jelaskan perbedaan antara iterative searching dan non iterative searching," Iterative Searching :
+- Iteratif menggunakan FOR, WHILE, DO-WHILE
+
+- Iteratif dapat berjalan pada program yang terdiri dari prosedur (Tidak terdapat fungsi)
+
+Non Iteratif searching: 
+
+-Hanya menggunakan IF.
+
+-merupakan fungsi.",80,60
+44,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative searching : mencari algoritma satu persatu dari semuanya
+
+non : mencari point terkecil tanpa mengecek semua",60,50
+45,Jelaskan perbedaan antara iterative searching dan non iterative searching,kalau iterative searching biasanya untuk menemukan amsaslah yang bukan path,70,80
+46,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative Searching biasa digunakan untuk pencarian masalah yang bukan berupa path
+
+Sedangkan non iterative bisa diunkan unutk algoritma ",70,85
+47,Jelaskan perbedaan antara iterative searching dan non iterative searching,iterative  biasa digunakan untuk hillclimb searching ,60,60
+48,Jelaskan perbedaan antara iterative searching dan non iterative searching,perbedaan antara iterative searching dan non iteratif yaitu iteratif searching biasanya untuk mengatasi hal-hal yang path beberbeda dengan non iteratif yan,65,80
+49,Jelaskan perbedaan antara iterative searching dan non iterative searching,"a.    Iteratif menggunakan FOR, WHILE, DO-WHILE sedangkan rekursif hanya menggunakan IF.
+b.    Iteratif dapat berjalan pada program yang terdiri dari prosedur (Tidak terdapat fungsi) sedangkan
+       rekursif merupakan fungsi.",80,70
+50,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative Searching adalah sebuah strategi umum yang biasanya dikombinasikan dengan depth first tree SEARCH, yang akan menemukan berapa depth limit terbaik untuk digunakan. Sedangkan Non Iteratif searching merupakan",60,50
+51,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative search : digunakan untuk mencari masalah yang bukan berupa path
+
+Non-iterative searching: digunakan untuk mencari masalah yang berupa path",70,90
+52,Jelaskan perbedaan antara iterative searching dan non iterative searching,"1. Iteratif lebih efisien daripada algoritma non iteratif. 
+
+2. iteratif memiliki kompleksitas ruang sebesar O(1), sedangkan non iteratif dapat mencapai sebesar O(log n). 
+
+3. Untuk kompleksitas waktu kedua algoritma memiliki kompleksitas sebesar O(log n), tetapi binary search iteratif cenderung memiliki faktor konstan yang lebih rendah.
+
+4. Non iteratif menghasilkan waktu eksekusi lebih lama dan penggunaan memori yang lebih besar dibandingkan dengan Iteratif",70,70
+53,Jelaskan perbedaan antara iterative searching dan non iterative searching,Perbedaan antara iterative seraching dan non iterative searching,5,10
+54,Jelaskan perbedaan antara iterative searching dan non iterative searching,"iterative search :
+
+Biasa digunakan untuk percarian masalah yang bukan berupa path
+
+1.Hill-climbing search
+2.Simulated annealing
+
+pengembangan dari A*search algorithm yang dikombinasikan dengan iterative  search. search algorithm merupakan best-first searches yang optimal dalam hal solution cost, time, dan space. Prinsip algoritma iterative deepening search adalah melakukan depth-limited search secara bertahap dengan nilai l yang incremental",65,10
+55,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Non Iteratif searching adalah suatu proses atau prosedur dari fungsi yang memanggil dirinya sendiri secara berulang-ulang. Karena proses dalam Rekursif ini terjadi secara berulang-ulang maka harus ada kondisi yang membatasi pengulangan persebut, jika tidak maka proses tidak akan pernah berhenti sampai memori yang digunakan untuk menampung proses tersebut tidak dapat menampung lagi (Penuh)
+
+Berbeda dengan Non Iteratif searching, Fungi Iteratif merupakan perulangan yang melakukan proses perulangan terhadap sekelompok intruksi. Perulangan dilakukan dalam batasan syarat tertentu. Ketika syarat tersebut tidak terpenuhi lagi maka perulangan akan terhenti.
+
+Dalam prosesnya, rekursif (Non Iteratif searching) memanggil dirinya sendiri sedangkan iteratif hanya mengulang berdasarkan kondisi tertentu.
+
+_FUNGSI ITERATIF LEBIH EFISIEN DARIPADA FUNGSI REKURSIF. FUNGSI ITERATIF MEMILIKI KOMPLEKSITAS RUANG SEBESAR O(1), SEDANGKAN FUNGSI REKURSIF DAPAT MENCAPAI SEBESAR O(LOG N). UNTUK KOMPLEKSITAS WAKTU KEDUA ALGORITMA FUNGSI MEMILIKI KOMPLEKSITAS SEBESAR O(LOG N), NAMUN FUNGSI ITERATIF CENDERUNG MEMILIKI FAKTOR KONSTAN YANG LEBIH RENDAH. FUNGSI REKURSIF MENGHASILKAN WAKTU EKSEKUSI LEBIH LAMA DAN PENGGUNAAN MEMORI YANG LEBIH BESAR JIKA DIBANDINGKAN DENGAN FUNGSI ITERATIF YANG MENGHASILKAN WAKTU EKSEKUSI DAN PENGGUNAAN MEMORI YANG LEBIH KECIL._",80,70
+56,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iteratif Searching biasa digunakan untuk pencarian masalah yang bukan path
+
+Sedangkan non Iteratif bisa digunakan untuk mencari masalah berupa path",90,90
+57,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative
+
+ Digunakan untuk mencari masalah bukan berupa path. Solusinya bukan berupa path dari initial state ke goal state tpi berupa kondisi yang diberikan ke goal state
+
+ 
+
+Non iterative
+
+Biasanya dengan initial state lalu dengan successor sampai dengan goal state. Solusi yang diberikan path dari initial state ke goal state. Lalu dilakukan back tracking dan ditemukan solusi permasalahan",90,95
+58,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Perbedaan utama dari iterative searching dan non iterative seacrhing (rekursif) ada dalam segi kompleksitas ruang nya. Contoh dalam Binary search, rekursif memeiliki kompleksitas O (log n), sedangkan iterative searching memiliki kompleksitas O(1). Maka dari itu iterative searching akan menjadi lebih efisien walaupun rekursif lebih mudah di implementasikan.",70,60
+59,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iterative mencari sampai nilai n yang diberikan.
+
+Non-iterative mencari nilai optimal dengan lebih sederhana untuk model soal sederhana",70,50
+60,Jelaskan perbedaan antara iterative searching dan non iterative searching,Iterative Searching adalah algoritma yang berguna untuk mencari jalur yang bukan path sedangkan Non Iteratif searching adalah algoritma untuk instruksi perulangan yang tak terhingga.,60,80
+61,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Iteratif search mencari nilai optimal sampai dengan nilai n dan  biasanya digunakan untuk pencarian masalah yang bukan  berupa Path.
+
+Non-iteratif search mencari dengan lebih sederhana untuk model yang lebih sederhana juga.",80,80
+62,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Perbedaan :
+
+Iterative Search akan mencari nilai optimal sampai dengan nilai n.
+
+Non-iterative Search akan mencari dengan lebih sederhana untuk model yang lebih sederhana juga.",70,60
+63,Jelaskan perbedaan antara iterative searching dan non iterative searching,"Perbedaan antara intterative searching dengan non iterative searching adalah, iterative searching memakai perulangan dari 0 sampai n sedangkan non iterative searching menggunakan perulangan dari n sampai 0",40,40

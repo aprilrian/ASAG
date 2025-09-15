@@ -1,0 +1,49 @@
+BASELINE MPI 1 (MSE+Multi) Evaluation
+Final Test SMAPE (Loss): 19.248865%
+
+BASELINE MPI 2 (MSE+Multi) Evaluation
+Final Test SMAPE (Loss): 21.355181%
+
+BASELINE Siscer A1 (MSE+Multi) Evaluation
+Final Test SMAPE (Loss): 13.958761%
+
+BASELINE Siscer B1 (MSE+Multi) Evaluation
+Final Test SMAPE (Loss): 7.961742%
+
+BASELINE MPI 1 (SMAPE+Multi) Evaluation
+Final Test SMAPE (Loss): 12.361013%
+
+BASELINE MPI 2 (SMAPE+Multi) Evaluation
+Final Test SMAPE (Loss): 39.336842%
+
+BASELINE Siscer A1 (SMAPE+Multi) Evaluation
+Final Test SMAPE (Loss): 15.279084%
+
+BASELINE Siscer B1 (SMAPE+Multi) Evaluation
+Final Test SMAPE (Loss): 9.728479%
+
+
+
+REPTILE MPI 1 (MSE+Multi) Evaluation
+Final Test SMAPE (Loss): 10.871525%
+
+REPTILE MPI 2 (MSE+Multi) Evaluation
+Final Test SMAPE (Loss): 8.334778%
+
+REPTILE Siscer A1 (MSE+Multi) Evaluation
+Final Test SMAPE (Loss): 5.100619%
+
+REPTILE Siscer B1 (MSE+Multi) Evaluation
+Final Test SMAPE (Loss): 2.423731%
+
+REPTILE MPI 1 (SMAPE+Multi) Evaluation
+Final Test SMAPE (Loss): 10.505990%
+
+REPTILE MPI 2 (SMAPE+Multi) Evaluation
+Final Test SMAPE (Loss): 9.736079%
+
+REPTILE Siscer A1 (SMAPE+Multi) Evaluation
+Final Test SMAPE (Loss): 5.202607%
+
+REPTILE Siscer B1 (SMAPE+Multi) Evaluation
+Final Test SMAPE (Loss): 2.358364%
